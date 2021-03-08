@@ -1,4 +1,4 @@
-# laravel/aliyun-opensearch
+# aliyun-opensearch
 
 基于 laravel/scout 的 OpenSearch 驱动扩展
 
