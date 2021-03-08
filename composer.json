@@ -1,0 +1,29 @@
+{
+  "name": "laravel/aliyun-opensearch",
+  "description": "aliyun-openSearch驱动扩展",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "bunny",
+      "email": "bunny.lehehe@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.3",
+    "illuminate/support": "8",
+    "laravel/scout": "8.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Bunny\\OpenSearch\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Bunny\\OpenSearch\\OpenSearchServiceProvider"
+      ]
+    }
+  }
+}
