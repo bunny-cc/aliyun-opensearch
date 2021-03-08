@@ -1,5 +1,5 @@
 {
-  "name": "laravel/aliyun-opensearch",
+  "name": "bunny-cc/aliyun-opensearch",
   "description": "aliyun-openSearch驱动扩展",
   "type": "library",
   "license": "MIT",
