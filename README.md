@@ -6,4 +6,4 @@
 
 建议使用 composer 方式安装此包
 
-    composer require laravel/aliyun-opensearch
+    composer require bunny-cc/aliyun-opensearch
